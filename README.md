@@ -179,6 +179,6 @@ Description: Retrieves all course registrations
 ### **Test data can be manually inserted into the database or generated using Postman requests.**
 
 ### Conclusion
-Follow the provided instructions to set up and run the Airtribe backend server. If you encounter any issues or have questions, feel free to reach out to ambica34@gmail.com.
+Follow the provided instructions to set up and run the Airtribe backend server. If you encounter any issues or have questions, feel free to reach out to mt166831@gmail.com 
 
 ### *Happy Coding!*
